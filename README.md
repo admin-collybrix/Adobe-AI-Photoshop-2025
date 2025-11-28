@@ -47,3 +47,4 @@ And many other features!
 - Extract the archive to a secure location.
 - Run `update.bat` and wait for install.
  
+ 
